@@ -32,7 +32,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research examines glacier change in High Mountain Asia. I'm specifically interested in using satellite remote sensing datasets to quantify ice velocity variability in the region. My research uses open-source software tools and I have enjoyed learning about and becoming involved in the open-source scientific software community during my graduate work. 
+        My research examines glacier change in High Mountain Asia. I'm specifically interested in using satellite remote sensing datasets to quantify ice velocity variability in the region. My research uses open-source software tools and I have enjoyed learning about and becoming involved in the open-source scientific software community during my graduate work. I'm co-advised by [Summer Rupper](https://profiles.faculty.utah.edu/u6002212) and [Rick Forster](https://profiles.faculty.utah.edu/u0085651) at the University of Utah.
         
         Please feel free to reach out if you have any questions about my work or would like to chat!
     design:
