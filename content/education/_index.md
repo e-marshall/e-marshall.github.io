@@ -1,5 +1,6 @@
 ---
 title: Education
+cms_exclude: true
 
 sections:
     - block: markdown

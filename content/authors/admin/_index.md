@@ -46,7 +46,7 @@ interests:
   - Open-source software
 
 education:
-  - area: Ph.D., Geography 
+  - area: Ph.D., Geography (*in progress*)
     institution: University of Utah
     date_start: 2021-09-01
     #date_end: 202-12-31
