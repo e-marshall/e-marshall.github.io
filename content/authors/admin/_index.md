@@ -11,7 +11,7 @@ last_name: Marshall
 
 # Status emoji
 status:
-  icon:
+  icon: :pencil:
 
 # Is this the primary user of the site?
 superuser: true
@@ -61,13 +61,12 @@ education:
     date_start: 2011-09-01
     date_end: 2015-05-31
     summary: |
-      Undergraduate thesis title: "Microclimatology and tree growth patterns of the alpine treeline ecotone, Pike’s Peak, Colorado" 
    
 ---
 
 ## About Me
 
-Emma Marshall is a PhD student and member of the [Cryosphere Lab](https://github.com/UofU-Cryosphere) in the [Geography Department](https://geog.utah.edu/) at the University of Utah. Her research uses earth observation data to quantify recent glacial variability in High Mountain Asia and examine connections between recent mass loss and characteristics such as glacier terminus type and debris cover. She is passionate about open science and reducing barriers to entry to scientific research. 
+I'm a PhD student and member of the [Cryosphere Lab](https://github.com/UofU-Cryosphere) in the [Geography Department](https://geog.utah.edu/) at the University of Utah. Her research uses earth observation data to quantify recent glacial variability in High Mountain Asia and examine connections between recent mass loss and characteristics such as glacier terminus type and debris cover. She is passionate about open science and reducing barriers to entry to scientific research. 
 
 
 
