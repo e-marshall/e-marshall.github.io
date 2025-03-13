@@ -47,15 +47,6 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: collection
-    id: education
-    content:
-      title: Education
-      filters:
-        folders:
-          - education
-    design:
-      view: article-grid
-      columns: 1
+
  
 ---
