@@ -1,6 +1,6 @@
 ---
 title: "Summer 2024 - Developer Relations intern @ Earthmover"
-excerpt: "More about my time as a SIParCS intern"
+excerpt: "More about my time as an intern at Earthmover"
 collection: portfolio
 ---
 ------

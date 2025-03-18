@@ -1,6 +1,6 @@
 ---
 title: "Summer 2022 - SIParCS intern @ NCAR"
-excerpt: "More about my time as an intern at Earthmover "
+excerpt: "More about my time as a SIParCS intern"
 collection: portfolio
 ---
 ------
