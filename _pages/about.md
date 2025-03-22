@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Emma Marshall"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,15 +9,17 @@ redirect_from:
 
 About me
 ======
-:wave: Hi! I'm a Ph.D student in the Geography Department at the University of Utah where my work focuses on using remote sensing data to better understand and quantify recent glacial variability in High Mountain Asia. I also like learning about and contributing to open-source projects. In my free time you can find me hiking with my dog, riding my bike - whether exploring Salt Lake City or dirt roads and trails across Utah - or knitting and hanging out at home. 
+:wave: Hi! I'm a Ph.D student in the Geography Department at the University of Utah where my work focuses on using remote sensing data to better understand and quantify recent glacial variability in High Mountain Asia. I also like learning about and contributing to open-source projects. In my free time, you can usually find me hiking, biking or skiing around Salt Lake with my dog :slightly_smiling_face:.
 
 Please feel free to reach out if you have any questions about my work or would like to chat!
+
+------
 
 
 
 Experience
 ======
-I've been fortunate to complete two summer internships during my Ph.D.. Both internships where valuable learning experiences where I gained new technical skills, developed as a scientist, and got to learn from amazing mentors.
+I've been fortunate to complete two summer internships during my Ph.D. Both internships where valuable learning experiences where I gained new technical skills, developed as a scientist, and got to learn from amazing mentors.
 
 Summer 2024 - Developer Relations intern @ [Earthmover]()
 ------
